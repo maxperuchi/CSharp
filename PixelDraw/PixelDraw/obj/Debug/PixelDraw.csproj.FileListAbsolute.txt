@@ -1,0 +1,15 @@
+E:\PixelDraw\PixelDraw\bin\Debug\PixelDraw.exe
+E:\PixelDraw\PixelDraw\bin\Debug\PixelDraw.pdb
+E:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.Properties.Resources.resources
+E:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.csproj.GenerateResource.Cache
+E:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.exe
+E:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.pdb
+E:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.frmMain.resources
+F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.exe
+F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.pdb
+F:\PixelDraw\PixelDraw\bin\Debug\PixelDraw.exe
+F:\PixelDraw\PixelDraw\bin\Debug\PixelDraw.pdb
+F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.frmMain.resources
+F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.Properties.Resources.resources
+F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.csproj.GenerateResource.Cache
+F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.frmTela.resources
