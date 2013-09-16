@@ -1,0 +1,4 @@
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\SC.Multiplicar.dll
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\SC.Multiplicar.pdb
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Multiplicar\obj\Debug\SC.Multiplicar.dll
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Multiplicar\obj\Debug\SC.Multiplicar.pdb

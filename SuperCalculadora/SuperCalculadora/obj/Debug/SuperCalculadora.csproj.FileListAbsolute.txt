@@ -1,0 +1,7 @@
+c:\users\max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\SuperCalculadora.exe.config
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\SuperCalculadora.exe
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\SuperCalculadora.pdb
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\obj\Debug\SuperCalculadora.exe
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\obj\Debug\SuperCalculadora.pdb
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\obj\Debug\SuperCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\FormulaBase.pdb

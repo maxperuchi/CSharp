@@ -1,0 +1,9 @@
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Soma\bin\Debug\SC.Soma.dll
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Soma\bin\Debug\SC.Soma.pdb
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Soma\obj\Debug\SC.Soma.csprojResolveAssemblyReference.cache
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Soma\obj\Debug\SC.Soma.dll
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Soma\obj\Debug\SC.Soma.pdb
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Soma\bin\Debug\FormulaBase.dll
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SC.Soma\bin\Debug\FormulaBase.pdb
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\SC.Soma.dll
+C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\SC.Soma.pdb
