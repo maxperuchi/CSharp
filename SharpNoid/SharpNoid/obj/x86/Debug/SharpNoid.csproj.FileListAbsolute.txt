@@ -1,0 +1,11 @@
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\bin\Debug\SharpNoid.exe
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\bin\Debug\SharpNoid.pdb
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.frmTela.resources
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.GameObjects.paddle.resources
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.Properties.Resources.resources
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.csproj.GenerateResource.Cache
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.exe
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.pdb
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.GameObjects.wall.resources
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.GameObjects.ball.resources
+C:\Users\maxwel.mello\Desktop\SharpNoid\SharpNoid\obj\x86\Debug\SharpNoid.csprojResolveAssemblyReference.cache

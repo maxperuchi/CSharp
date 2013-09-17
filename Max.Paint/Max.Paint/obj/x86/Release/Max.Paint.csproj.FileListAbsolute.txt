@@ -1,0 +1,8 @@
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\bin\Release\Max.Paint.exe.config
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\bin\Release\Max.Paint.exe
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\bin\Release\Max.Paint.pdb
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.frmMain.resources
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.Properties.Resources.resources
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.csproj.GenerateResource.Cache
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.exe
+C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.pdb
