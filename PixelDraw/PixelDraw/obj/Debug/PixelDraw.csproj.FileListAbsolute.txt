@@ -13,3 +13,13 @@ F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.frmMain.resources
 F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.Properties.Resources.resources
 F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.csproj.GenerateResource.Cache
 F:\PixelDraw\PixelDraw\obj\Debug\PixelDraw.frmTela.resources
+\\psf\Home\CSharp\PixelDraw\PixelDraw\bin\Debug\PixelDraw.exe.config
+\\psf\Home\CSharp\PixelDraw\PixelDraw\obj\Debug\PixelDraw.exe
+\\psf\Home\CSharp\PixelDraw\PixelDraw\obj\Debug\PixelDraw.pdb
+\\psf\Home\CSharp\PixelDraw\PixelDraw\bin\Debug\PixelDraw.exe
+\\psf\Home\CSharp\PixelDraw\PixelDraw\bin\Debug\PixelDraw.pdb
+\\psf\Home\CSharp\PixelDraw\PixelDraw\obj\Debug\PixelDraw.csprojResolveAssemblyReference.cache
+\\psf\Home\CSharp\PixelDraw\PixelDraw\obj\Debug\PixelDraw.frmMain.resources
+\\psf\Home\CSharp\PixelDraw\PixelDraw\obj\Debug\PixelDraw.frmTela.resources
+\\psf\Home\CSharp\PixelDraw\PixelDraw\obj\Debug\PixelDraw.Properties.Resources.resources
+\\psf\Home\CSharp\PixelDraw\PixelDraw\obj\Debug\PixelDraw.csproj.GenerateResource.Cache

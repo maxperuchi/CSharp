@@ -1,0 +1,15 @@
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\bin\Debug\PostDotNet.exe.config
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\bin\Debug\PostDotNet.exe
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\bin\Debug\PostDotNet.pdb
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucPartida.resources
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Principal.resources
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Properties.Resources.resources
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.csproj.GenerateResource.Cache
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.exe
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.pdb
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucAceita.resources
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucRejeita.resources
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.csprojResolveAssemblyReference.cache
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucAtribui.resources
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucLer.resources
+C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.CaixaEntrada.resources
