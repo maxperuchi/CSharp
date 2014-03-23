@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUMeter", "VUMeter\VUMeter.csproj", "{07805C47-8081-43D0-8ECD-A2E94CDEC657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUMeter.Plugin.Led", "VUMeter.Plugin.Led\VUMeter.Plugin.Led.csproj", "{47CC951E-1D54-4A68-819C-A9055E973E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUMeter.Plugin.PBar", "VUMeter.Plugin.PBar\VUMeter.Plugin.PBar.csproj", "{081EF16E-D6BD-47AE-B1EE-6FCBE3F3A24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUMeter.Plugin", "VUMeter.Plugin\VUMeter.Plugin.csproj", "{156D5B1E-3E43-4A25-A129-25B6300A0ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07805C47-8081-43D0-8ECD-A2E94CDEC657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07805C47-8081-43D0-8ECD-A2E94CDEC657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07805C47-8081-43D0-8ECD-A2E94CDEC657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07805C47-8081-43D0-8ECD-A2E94CDEC657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CC951E-1D54-4A68-819C-A9055E973E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CC951E-1D54-4A68-819C-A9055E973E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CC951E-1D54-4A68-819C-A9055E973E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CC951E-1D54-4A68-819C-A9055E973E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{081EF16E-D6BD-47AE-B1EE-6FCBE3F3A24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081EF16E-D6BD-47AE-B1EE-6FCBE3F3A24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081EF16E-D6BD-47AE-B1EE-6FCBE3F3A24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081EF16E-D6BD-47AE-B1EE-6FCBE3F3A24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156D5B1E-3E43-4A25-A129-25B6300A0ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156D5B1E-3E43-4A25-A129-25B6300A0ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156D5B1E-3E43-4A25-A129-25B6300A0ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156D5B1E-3E43-4A25-A129-25B6300A0ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

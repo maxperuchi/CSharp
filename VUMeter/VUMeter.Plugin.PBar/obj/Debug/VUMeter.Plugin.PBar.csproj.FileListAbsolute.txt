@@ -1,0 +1,11 @@
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\bin\Debug\VUMeter.Plugin.PBar.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\bin\Debug\VUMeter.Plugin.PBar.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\bin\Debug\VUMeter.Plugin.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\bin\Debug\VUMeter.Plugin.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.Plugin.PBar.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.Plugin.PBar.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\obj\Debug\VUMeter.Plugin.PBar.csprojResolveAssemblyReference.cache
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\obj\Debug\VUMeter.Plugin.PBar.PBarVUWindow.resources
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\obj\Debug\VUMeter.Plugin.PBar.csproj.GenerateResource.Cache
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\obj\Debug\VUMeter.Plugin.PBar.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.PBar\obj\Debug\VUMeter.Plugin.PBar.pdb

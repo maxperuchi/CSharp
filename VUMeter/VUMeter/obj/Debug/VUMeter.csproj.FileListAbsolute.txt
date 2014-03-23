@@ -1,0 +1,10 @@
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.exe.config
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.exe
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\CoreAudioApi.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\obj\Debug\VUMeter.csprojResolveAssemblyReference.cache
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\obj\Debug\VUMeter.Main.resources
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\obj\Debug\VUMeter.Properties.Resources.resources
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\obj\Debug\VUMeter.csproj.GenerateResource.Cache
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\obj\Debug\VUMeter.exe
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\obj\Debug\VUMeter.pdb

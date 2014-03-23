@@ -1,0 +1,6 @@
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin\bin\Debug\VUMeter.Plugin.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin\bin\Debug\VUMeter.Plugin.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.Plugin.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.Plugin.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin\obj\Debug\VUMeter.Plugin.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin\obj\Debug\VUMeter.Plugin.pdb

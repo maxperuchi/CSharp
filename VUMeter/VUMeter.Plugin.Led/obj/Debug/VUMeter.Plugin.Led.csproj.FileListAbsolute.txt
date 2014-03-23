@@ -1,0 +1,13 @@
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\bin\Debug\inpout32.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\bin\Debug\inpoutx64.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\bin\Debug\VUMeter.Plugin.Led.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\bin\Debug\VUMeter.Plugin.Led.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\bin\Debug\VUMeter.Plugin.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\bin\Debug\VUMeter.Plugin.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\inpout32.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\inpoutx64.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.Plugin.Led.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter\bin\Debug\VUMeter.Plugin.Led.pdb
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\obj\Debug\VUMeter.Plugin.Led.csprojResolveAssemblyReference.cache
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\obj\Debug\VUMeter.Plugin.Led.dll
+C:\Users\Maxwel\Desktop\VUMeter\VUMeter.Plugin.Led\obj\Debug\VUMeter.Plugin.Led.pdb
