@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+VisualStudioVersion = 12.0.20827.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostDotNet", "PostDotNet\PostDotNet.csproj", "{E14742AD-3C50-437D-B356-D0B299A43BA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostDotNet.WinForms", "PostDotNet\PostDotNet.WinForms.csproj", "{E14742AD-3C50-437D-B356-D0B299A43BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostDotNet.Core", "PostDotNet.Engine\PostDotNet.Core.csproj", "{F08F0B6E-F1F8-4EFA-BB76-0A62E982E0FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostDotNet.Tests", "PostDotNetTests\PostDotNet.Tests.csproj", "{7FBF738F-52D5-4998-BD7A-E0A213D12284}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E14742AD-3C50-437D-B356-D0B299A43BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E14742AD-3C50-437D-B356-D0B299A43BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E14742AD-3C50-437D-B356-D0B299A43BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08F0B6E-F1F8-4EFA-BB76-0A62E982E0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08F0B6E-F1F8-4EFA-BB76-0A62E982E0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08F0B6E-F1F8-4EFA-BB76-0A62E982E0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08F0B6E-F1F8-4EFA-BB76-0A62E982E0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBF738F-52D5-4998-BD7A-E0A213D12284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBF738F-52D5-4998-BD7A-E0A213D12284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBF738F-52D5-4998-BD7A-E0A213D12284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBF738F-52D5-4998-BD7A-E0A213D12284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

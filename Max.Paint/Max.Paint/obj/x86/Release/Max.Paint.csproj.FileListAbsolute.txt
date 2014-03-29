@@ -6,3 +6,12 @@ C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.Prop
 C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.csproj.GenerateResource.Cache
 C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.exe
 C:\Users\maxwel.mello\Desktop\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\bin\Release\Max.Paint.exe.config
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.exe
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\bin\Release\Max.Paint.exe
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\bin\Release\Max.Paint.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.frmMain.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.Properties.Resources.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\Max.Paint\Max.Paint\obj\x86\Release\Max.Paint.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\bin\Debug\PostDotNetTests.exe.config
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\bin\Debug\PostDotNetTests.exe
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\bin\Debug\PostDotNetTests.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\bin\Debug\PostDotNet.Engine.dll
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\bin\Debug\PostDotNet.Engine.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\obj\Debug\PostDotNet.Tests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\obj\Debug\PostDotNetTests.Properties.Resources.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\obj\Debug\PostDotNetTests.Tests.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\obj\Debug\PostDotNet.Tests.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\obj\Debug\PostDotNetTests.exe
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNetTests\obj\Debug\PostDotNetTests.pdb

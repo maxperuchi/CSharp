@@ -64,6 +64,7 @@
             this.txtEntrada.Name = "txtEntrada";
             this.txtEntrada.Size = new System.Drawing.Size(388, 20);
             this.txtEntrada.TabIndex = 1;
+            this.txtEntrada.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtEntrada_KeyPress);
             // 
             // btnOK
             // 

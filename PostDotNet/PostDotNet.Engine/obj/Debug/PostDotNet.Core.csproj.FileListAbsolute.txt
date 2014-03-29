@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Core.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\bin\Debug\PostDotNet.Engine.dll
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\bin\Debug\PostDotNet.Engine.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Engine.dll
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Engine.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Core.ucAceita.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Core.ucAtribui.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Core.ucLer.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Core.ucPartida.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Core.ucRejeita.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet.Engine\obj\Debug\PostDotNet.Core.csprojResolveAssemblyReference.cache

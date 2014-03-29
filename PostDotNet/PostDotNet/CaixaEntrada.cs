@@ -34,5 +34,13 @@ namespace PostDotNet
             Retorno = txtEntrada.Text;
             instance.Close();
         }
+
+        private void txtEntrada_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(e.KeyChar == Convert.ToChar(Keys.Enter))
+            {
+                btnOK_Click(sender,e);
+            }
+        }
     }
 }

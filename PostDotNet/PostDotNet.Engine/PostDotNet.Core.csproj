@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F08F0B6E-F1F8-4EFA-BB76-0A62E982E0FC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PostDotNet.Core</RootNamespace>
+    <AssemblyName>PostDotNet.Engine</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exceptions\AceitaException.cs" />
+    <Compile Include="Exceptions\AtribuirException.cs" />
+    <Compile Include="MensagemPost.cs" />
+    <Compile Include="Exceptions\LerException.cs" />
+    <Compile Include="Exceptions\RejeitaException.cs" />
+    <Compile Include="Relacionamento.cs" />
+    <Compile Include="IControlePost.cs" />
+    <Compile Include="ControlesPost\ucAceita.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesPost\ucAceita.Designer.cs">
+      <DependentUpon>ucAceita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesPost\ucAtribui.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesPost\ucAtribui.Designer.cs">
+      <DependentUpon>ucAtribui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesPost\ucLer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesPost\ucLer.Designer.cs">
+      <DependentUpon>ucLer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesPost\ucPartida.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesPost\ucPartida.Designer.cs">
+      <DependentUpon>ucPartida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesPost\ucRejeita.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesPost\ucRejeita.Designer.cs">
+      <DependentUpon>ucRejeita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ControlesPost\ucAceita.resx">
+      <DependentUpon>ucAceita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesPost\ucAtribui.resx">
+      <DependentUpon>ucAtribui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesPost\ucLer.resx">
+      <DependentUpon>ucLer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesPost\ucPartida.resx">
+      <DependentUpon>ucPartida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesPost\ucRejeita.resx">
+      <DependentUpon>ucRejeita.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

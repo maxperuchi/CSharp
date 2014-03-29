@@ -13,3 +13,18 @@ C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.
 C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucAtribui.resources
 C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucLer.resources
 C:\Users\maxwel.mello\Desktop\Testes\PostDotNet\PostDotNet\obj\Debug\PostDotNet.CaixaEntrada.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\bin\Debug\PostDotNet.exe.config
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.exe
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\bin\Debug\PostDotNet.exe
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\bin\Debug\PostDotNet.pdb
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.CaixaEntrada.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucAceita.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucAtribui.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucLer.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucPartida.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Controles.ucRejeita.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Principal.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.Properties.Resources.resources
+\\vmware-host\Shared Folders\maxwelperuchi\CSharp\PostDotNet\PostDotNet\obj\Debug\PostDotNet.csproj.GenerateResource.Cache
