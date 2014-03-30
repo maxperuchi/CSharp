@@ -1,1 +1,7 @@
 C:\Users\Maxwel\Desktop\AFD\AFD\bin\Debug\AFD.exe.config
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\bin\Debug\AFD.exe.config
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\bin\Debug\AFD.exe
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\bin\Debug\AFD.pdb
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\obj\Debug\AFD.csprojResolveAssemblyReference.cache
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\obj\Debug\AFD.exe
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\obj\Debug\AFD.pdb
