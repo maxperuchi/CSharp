@@ -1,0 +1,7 @@
+Estados={q0,q1,q2}
+EstadoInicial={q0}
+EstadosFinais={q2}
+d(q0,0,q1)
+d(q1,1,q2)
+d(q2,0,q2)
+d(q2,1,q2)

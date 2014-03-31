@@ -1,51 +1,24 @@
 ﻿using AFD.Controller;
 using AFD.Model;
+using System;
+using System.Windows.Forms;
 
 namespace AFD
 {
     class Program
     {
+        [STAThread]
         static void Main(string[] args)
         {
-            Automato automato = new Automato();
-            automato.Palavra = "0101";
-
-            automato.Estados.Add(new Estado() { Id = 0 });
-            automato.Estados.Add(new Estado() { Id = 1 });
-            automato.Estados.Add(new Estado() { Id = 2 });
-
-            automato.EstadoInicial = automato.Estados.Find(e => e.Id == 0);
-            automato.EstadosFinais.Add(automato.Estados.Find(e => e.Id == 2));
-
-            automato.Transicoes.Add(new Transicao()
+            OpenFileDialog ofd = new OpenFileDialog();
+            if (ofd.ShowDialog() == DialogResult.OK)
             {
-                Origem = automato.Estados.Find(e => e.Id == 0),
-                Destino = automato.Estados.Find(e => e.Id == 1),
-                Simbolo = '0'
-            });
-
-            automato.Transicoes.Add(new Transicao()
-            {
-                Origem = automato.Estados.Find(e => e.Id == 1),
-                Destino = automato.Estados.Find(e => e.Id == 2),
-                Simbolo = '1'
-            });
-
-            automato.Transicoes.Add(new Transicao()
-            {
-                Origem = automato.Estados.Find(e => e.Id == 2),
-                Destino = automato.Estados.Find(e => e.Id == 2),
-                Simbolo = '0'
-            });
-
-            automato.Transicoes.Add(new Transicao()
-            {
-                Origem = automato.Estados.Find(e => e.Id == 2),
-                Destino = automato.Estados.Find(e => e.Id == 2),
-                Simbolo = '1'
-            });
-
-            automato.Execute();
+                Console.Write("Entre com a palavra a ser processada: ");
+                var palavra = Console.ReadLine();
+                Automato automato = AutomatoReader.LerAutomato(ofd.FileName);
+                automato.Palavra = palavra;
+                automato.Execute();
+            }
         }
     }
 }
