@@ -21,7 +21,7 @@ namespace AFD
 
                 Texto.Text = txt.ReadToEnd();
 
-                btnCarregarAutomato.Enabled = true;
+                //btnCarregarAutomato.Enabled = true;
             }
         }
 
@@ -44,6 +44,7 @@ namespace AFD
             automato.Execute();
 
             Util.Ocorrencias.ForEach(o => Texto.Marcar(o.Inicio, o.Tamanho));
+            label2.Text = Util.Ocorrencias.Count.ToString();
         }
     }
 }

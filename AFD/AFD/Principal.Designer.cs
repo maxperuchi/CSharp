@@ -32,6 +32,8 @@
             this.btnCarregarTexto = new System.Windows.Forms.Button();
             this.btnCarregarAutomato = new System.Windows.Forms.Button();
             this.btnExecutar = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Texto
@@ -46,7 +48,7 @@
             // 
             // btnCarregarTexto
             // 
-            this.btnCarregarTexto.Location = new System.Drawing.Point(12, 256);
+            this.btnCarregarTexto.Location = new System.Drawing.Point(10, 282);
             this.btnCarregarTexto.Name = "btnCarregarTexto";
             this.btnCarregarTexto.Size = new System.Drawing.Size(75, 44);
             this.btnCarregarTexto.TabIndex = 1;
@@ -56,8 +58,7 @@
             // 
             // btnCarregarAutomato
             // 
-            this.btnCarregarAutomato.Enabled = false;
-            this.btnCarregarAutomato.Location = new System.Drawing.Point(197, 256);
+            this.btnCarregarAutomato.Location = new System.Drawing.Point(195, 282);
             this.btnCarregarAutomato.Name = "btnCarregarAutomato";
             this.btnCarregarAutomato.Size = new System.Drawing.Size(75, 44);
             this.btnCarregarAutomato.TabIndex = 2;
@@ -68,7 +69,7 @@
             // btnExecutar
             // 
             this.btnExecutar.Enabled = false;
-            this.btnExecutar.Location = new System.Drawing.Point(105, 256);
+            this.btnExecutar.Location = new System.Drawing.Point(103, 282);
             this.btnExecutar.Name = "btnExecutar";
             this.btnExecutar.Size = new System.Drawing.Size(75, 44);
             this.btnExecutar.TabIndex = 3;
@@ -76,11 +77,31 @@
             this.btnExecutar.UseVisualStyleBackColor = true;
             this.btnExecutar.Click += new System.EventHandler(this.btnExecutar_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(13, 257);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(67, 13);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "Ocorrências:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(78, 257);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(13, 13);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "0";
+            // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 306);
+            this.ClientSize = new System.Drawing.Size(284, 336);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnExecutar);
             this.Controls.Add(this.btnCarregarAutomato);
             this.Controls.Add(this.btnCarregarTexto);
@@ -88,6 +109,7 @@
             this.Name = "Principal";
             this.Text = "Principal";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -97,5 +119,7 @@
         private System.Windows.Forms.Button btnCarregarTexto;
         private System.Windows.Forms.Button btnCarregarAutomato;
         private System.Windows.Forms.Button btnExecutar;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }

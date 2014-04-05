@@ -1,10 +1,13 @@
 ﻿using AFD.Model;
 using System.IO;
+using System.Text.RegularExpressions;
 namespace AFD.Controller
 {
     public static class AutomatoReader
     {
         private static Automato automato;
+
+        private static Regex transicaoRegex = new Regex("[d()q ]");
 
         public static Automato LerAutomato(string arquivoTexto)
         {
@@ -26,7 +29,7 @@ namespace AFD.Controller
 
                 if (linha.StartsWith("d("))
                 {
-                    var transicao = linha.Replace("d(", "").Replace(")", "").Replace("q","").Split(',');
+                    var transicao = transicaoRegex.Replace(linha, "").Split(',');
                     automato.Transicoes.Add(new Transicao()
                     {
                         Origem = automato.Estados.Find(e => e.Id == int.Parse(transicao[0])),
