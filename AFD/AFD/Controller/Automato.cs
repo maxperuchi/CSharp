@@ -33,18 +33,19 @@ namespace AFD.Controller
             {
                 var simbolo = this.Palavra[i];
 
-                Console.WriteLine("\n- Leu simbolo '" + simbolo + "'.");
+                //Console.WriteLine("\n- Leu simbolo '" + simbolo + "'.");
 
                 var transicao = this.Transicoes.Find(t => t.Simbolo == simbolo && t.Origem == estadoAtual);
                 if (transicao != null)
                 {
                     estadoAtual = transicao.Destino;
-                    Console.WriteLine("=> Foi para o estado " + estadoAtual.Nome);
+                    //Console.WriteLine("=> Foi para o estado " + estadoAtual.Nome);
                 }
                 else
                 {
-                    Console.WriteLine("\nNao ha transicao prevista para o simbolo '" + simbolo + "' no estado " + estadoAtual.Nome);
-                    Console.ReadKey();
+                    estadoAtual = EstadoInicial;
+                    //Console.WriteLine("\nNao ha transicao prevista para o simbolo '" + simbolo + "' no estado " + estadoAtual.Nome);
+                    //Console.ReadKey();
                     return;
                 }
 
@@ -53,9 +54,10 @@ namespace AFD.Controller
 
             if (this.EstadosFinais.Contains(estadoAtual))
             {
-                Console.WriteLine("\nAutomato atingiu o estado final " + estadoAtual.Nome);
+
+                //Console.WriteLine("\nAutomato atingiu o estado final " + estadoAtual.Nome);
             }
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
