@@ -13,3 +13,5 @@ C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\obj\Debug\AFD.pdb
 \\VBOXSVR\maxwelmello\Desktop Groups\Dev\CSharp\AFD\AFD\obj\Debug\AFD.pdb
 \\VBOXSVR\maxwelmello\Desktop Groups\Dev\CSharp\AFD\AFD\obj\Debug\AFD.Principal.resources
 \\VBOXSVR\maxwelmello\Desktop Groups\Dev\CSharp\AFD\AFD\obj\Debug\AFD.csproj.GenerateResource.Cache
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\obj\Debug\AFD.Principal.resources
+C:\Users\Maxwel\Documents\GitHub\CSharp\AFD\AFD\obj\Debug\AFD.csproj.GenerateResource.Cache

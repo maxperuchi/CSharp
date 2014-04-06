@@ -65,7 +65,7 @@
     <Compile Include="Controller\AutomatoReader.cs" />
     <Compile Include="Model\Estado.cs" />
     <Compile Include="Model\Transicao.cs" />
-    <Compile Include="Ocorrencia.cs" />
+    <Compile Include="Model\Ocorrencia.cs" />
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
     </Compile>
