@@ -1,7 +1,0 @@
-C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\FormulaBase\bin\Debug\FormulaBase.dll
-C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\FormulaBase\bin\Debug\FormulaBase.pdb
-C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\FormulaBase\obj\Debug\FormulaBase.csprojResolveAssemblyReference.cache
-C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\FormulaBase\obj\Debug\FormulaBase.dll
-C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\FormulaBase\obj\Debug\FormulaBase.pdb
-C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\FormulaBase.dll
-C:\Users\Max\documents\visual studio 2012\Projects\SuperCalculadora\SuperCalculadora\bin\Debug\FormulaBase.pdb
