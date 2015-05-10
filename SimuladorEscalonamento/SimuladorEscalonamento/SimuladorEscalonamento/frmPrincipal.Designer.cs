@@ -260,7 +260,7 @@
             // lblInstrucao
             // 
             this.lblInstrucao.AutoSize = true;
-            this.lblInstrucao.Location = new System.Drawing.Point(23, 390);
+            this.lblInstrucao.Location = new System.Drawing.Point(23, 396);
             this.lblInstrucao.Name = "lblInstrucao";
             this.lblInstrucao.Size = new System.Drawing.Size(338, 13);
             this.lblInstrucao.TabIndex = 22;

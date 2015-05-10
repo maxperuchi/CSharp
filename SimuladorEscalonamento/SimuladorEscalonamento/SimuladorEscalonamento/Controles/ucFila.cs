@@ -2,7 +2,7 @@
 
 namespace SimuladorEscalonamento.Controles
 {
-    public partial class ucFila : UserControl
+    public partial class ucFila : UserControl, IFila
     {
         public void AdicionarProcesso(ucProcesso processo)
         {
@@ -39,6 +39,12 @@ namespace SimuladorEscalonamento.Controles
         public void Limpar()
         {
             flpFila.Controls.Clear();
+        }
+
+        public void RemoverProcesso(ucProcesso processo)
+        {
+            flpFila.Controls.Remove(processo);
+            Refresh();
         }
     }
 }

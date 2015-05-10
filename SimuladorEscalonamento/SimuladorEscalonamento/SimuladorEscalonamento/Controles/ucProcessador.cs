@@ -13,9 +13,9 @@ namespace SimuladorEscalonamento.Controles
 
         private ucProcesso Processo = null;
 
-        private ucFila Fila = null;
+        private IFila Fila = null;
 
-        private ucFIlaEspera FilaEspera = null;
+        private IFila FilaEspera = null;
 
         private System.Windows.Forms.Timer timer;
 
@@ -30,12 +30,12 @@ namespace SimuladorEscalonamento.Controles
             }
         }
 
-        public void SetarFila(ucFila valor)
+        public void SetarFila(IFila valor)
         {
             Fila = valor;
         }
 
-        public void SetarFilaEspera(ucFIlaEspera valor)
+        public void SetarFilaEspera(IFila valor)
         {
             FilaEspera = valor;
         }

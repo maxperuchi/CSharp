@@ -13,11 +13,11 @@ namespace SimuladorEscalonamento
         private Timer timer;
 
         private int quantum, tempoVida, qtdMaxProcessos, probIO, probIOEspera;
-        private ucFila Fila;
-        private ucFIlaEspera FilaEspera;
+        private IFila Fila, FilaEspera;
+
         private ucProcessador Processador;
 
-        public SisOp(ucFila fila, ucFIlaEspera filaEspera, ucProcessador processador, int quantum, int tempoVida, int qtdMaxProcessos, int probIO, int probIOEspera)
+        public SisOp(IFila fila, IFila filaEspera, ucProcessador processador, int quantum, int tempoVida, int qtdMaxProcessos, int probIO, int probIOEspera)
         {
             timer = new Timer();
             timer.Interval = 60000;
@@ -38,7 +38,7 @@ namespace SimuladorEscalonamento
         {
             CriarProcessos();
         }
-
+        
         private void CriarProcessos()
         {
             for (int i = 0; i < qtdMaxProcessos; i++)
@@ -46,15 +46,23 @@ namespace SimuladorEscalonamento
                 var r = new Random();
                 bool ioBound = (r.Next(1, qtdMaxProcessos) < (probIO * qtdMaxProcessos) / 100);
 
-                Fila.AdicionarProcesso(new Controles.ucProcesso() { IOBOund = ioBound, Tempo = tempoVida, Id = contadorProcessos });
+                var proc = new Controles.ucProcesso() { IOBOund = ioBound, Tempo = tempoVida, Id = contadorProcessos };
+                proc.ProcessarEvento += proc_ProcessarEvento;
+                Fila.AdicionarProcesso(proc);
                 contadorProcessos++;
             }
+        }
+
+        void proc_ProcessarEvento(object sender, ProcessoEventArgs e)
+        {
+            e.Processo.EmEspera = false;
+            FilaEspera.RemoverProcesso(e.Processo);
+            Fila.AdicionarProcesso(e.Processo);
         }
 
         public void Iniciar()
         {
             contadorProcessos = 1;
-            FilaEspera.SetarFila(Fila);
             Processador.SetarQuantum(quantum);
             Processador.SetarFila(Fila);
             Processador.SetarFilaEspera(FilaEspera);
@@ -75,7 +83,7 @@ namespace SimuladorEscalonamento
             Processador.Parar();
 
             Fila.Limpar();
-            FilaEspera.Limpa();
+            FilaEspera.Limpar();
 
             Executando = false;
         }
