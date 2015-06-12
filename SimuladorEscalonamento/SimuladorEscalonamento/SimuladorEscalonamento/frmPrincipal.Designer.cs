@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPrincipal));
-            this.lblSobre = new System.Windows.Forms.Label();
             this.lblQuantum = new System.Windows.Forms.Label();
             this.lblTempoVida = new System.Windows.Forms.Label();
             this.lblProbabilidadeIO = new System.Windows.Forms.Label();
@@ -61,14 +60,6 @@
             this.btnSair = new System.Windows.Forms.Button();
             this.pnlLegenda.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // lblSobre
-            // 
-            this.lblSobre.Location = new System.Drawing.Point(450, 396);
-            this.lblSobre.Name = "lblSobre";
-            this.lblSobre.Size = new System.Drawing.Size(297, 20);
-            this.lblSobre.TabIndex = 0;
-            this.lblSobre.Text = "Feito por: Maxwel Peruchi de Mello && Riciel Peruchi de Mello";
             // 
             // lblQuantum
             // 
@@ -383,7 +374,6 @@
             this.Controls.Add(this.lblProbabilidadeIO);
             this.Controls.Add(this.lblTempoVida);
             this.Controls.Add(this.lblQuantum);
-            this.Controls.Add(this.lblSobre);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
@@ -401,7 +391,6 @@
 
         #endregion
 
-        private System.Windows.Forms.Label lblSobre;
         private System.Windows.Forms.Label lblQuantum;
         private System.Windows.Forms.Label lblTempoVida;
         private System.Windows.Forms.Label lblProbabilidadeIO;
