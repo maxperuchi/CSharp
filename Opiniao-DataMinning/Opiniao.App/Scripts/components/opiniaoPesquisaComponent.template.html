@@ -1,0 +1,51 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <p>Pesquisar por um produto</p>
+        </div>
+    </div>
+    <div class="form-inline">
+        <input type="text" name="produto" id="produto" class="form-control" ng-model="produto" tabindex="1" ng-keypress="produtoKeyPress($event)" />
+        <button name="pesquisar" id="pesquisar" class="btn btn-success" ng-click="pesquisar()" tabindex="2"><i class="glyphicon glyphicon-search"></i> Pesquisar</button>
+    </div>
+    <br />
+
+    <opiniao-loading-component></opiniao-loading-component>
+
+    <div class="panel panel-group" ng-show="opinioes.length > 0">
+
+        <div class="panel-body">
+            <div class="col-md-12">
+                <img src="{{opinioes[0].UrlImagem}}" style="width: 200px; height:200px;" />
+            </div>
+            <div class="col-md-12">
+                <h2>{{opinioes[0].NomeProduto}}</h2>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+
+            <div class="col-md-12">
+                <h3>Opiniões de clientes que compraram</h3>
+            </div>
+
+            <div class="panel panel-default" ng-repeat="opiniao in opinioes">
+
+                <div class="panel-heading">
+                    <a href="{{opiniao.UrlProduto}}"><h4><i class="glyphicon glyphicon-new-window"></i> {{opiniao.Fonte}}</h4></a>
+                </div>
+
+                <div class="panel-body">
+                    <div style="display:inline-block; padding:5px;" ng-repeat="adjetivo in opiniao.Opinioes">
+                        <div class="panel panel-default" title="{{adjetivo.Ocorrencia}}">
+                            <div class="panel-body">{{adjetivo.Palavra}}</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</div>
